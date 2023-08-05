@@ -1,6 +1,5 @@
 # Playing by multiplyers:
 import random
-
 try:
     def guess_Game(a,b,actual):
         trials = 1
